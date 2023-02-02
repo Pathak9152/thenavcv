@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ad34673.css",
+    "main.js": "/static/js/main.add1399e.js",
+    "static/js/787.c25280ba.chunk.js": "/static/js/787.c25280ba.chunk.js",
+    "static/media/Navodit_Pathak_Resume.pdf": "/static/media/Navodit_Pathak_Resume.7dcd7a727653eaf67b2c.pdf",
+    "static/media/gym.jpg": "/static/media/gym.106922a724a5b67a3df3.jpg",
+    "static/media/port.jpg": "/static/media/port.a28c2f0018cd5362af8b.jpg",
+    "static/media/profile.jpg": "/static/media/profile.6fdb0f143b7a28b90200.jpg",
+    "static/media/img.jpg": "/static/media/img.b09e771423d9ffdcb1f6.jpg",
+    "index.html": "/index.html",
+    "main.9ad34673.css.map": "/static/css/main.9ad34673.css.map",
+    "main.add1399e.js.map": "/static/js/main.add1399e.js.map",
+    "787.c25280ba.chunk.js.map": "/static/js/787.c25280ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ad34673.css",
+    "static/js/main.add1399e.js"
+  ]
+}
